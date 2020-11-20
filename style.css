@@ -1,0 +1,259 @@
+.html {
+    display: flex;
+}
+
+.logo {  
+position: absolute;
+width: 191.82px;
+height: 65px;
+left: 229px;
+top: 37px;
+}
+
+.header_menu-item1 a {
+    position: absolute;
+width: 453px;
+height: 22px;
+left: 771px;
+top: 52px;
+text-decoration: none;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+list-style: none;
+color: rgba(255, 56, 61, 1);
+}
+
+.header_menu-item2 a {
+    position: absolute;
+width: 453px;
+height: 22px;
+left: 871px;
+top: 52px;
+text-decoration: none;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+list-style: none;
+color: rgb(35, 1, 80);
+}
+
+.header_menu-item3 a {
+    position: absolute;
+width: 453px;
+height: 22px;
+left: 971px;
+top: 52px;
+text-decoration: none;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+list-style: none;
+color: rgb(35, 1, 80);
+}
+
+.header_menu-item4 a {
+    position: absolute;
+width: 453px;
+height: 22px;
+left: 1071px;
+top: 52px;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+list-style: none;
+color: rgb(35, 1, 80);
+text-decoration: none;;
+}
+
+.header-menu-item5 a {
+    position: absolute;
+    width: 154px;
+    height: 55px;
+    left: 1150px;
+    top: 42px; 
+    text-decoration: none;
+    border: 2px solid #FB4C47;
+box-sizing: border-box;
+    border-radius: 46px;
+    position: absolute;
+font-weight: bold;
+font-size: 18px;
+line-height: 50px;
+color: #FF383D;
+}
+
+ul {
+    list-style: none;
+}
+
+.covid1 {
+    position: absolute;
+width: 753px;
+height: 604px;
+left: 945px;
+top: 283px;
+}
+
+
+    p {
+        font-size: 22px;
+        color: #4B4F51;
+        line-height: 35px;
+    }
+    
+    .hero {
+        display: flex;
+        padding-top: 200px;
+        padding-left: 56px;
+        color: #e02d2a;
+
+    }
+
+     h1 {
+        color:  #4d9b6bea;
+
+    }
+
+     h2 {
+        color: #e02d2a;
+
+    }
+    
+    .hero__button {
+        position: relative;
+        top: 50px;
+        background: #FB4C47;
+        border-radius: 48px;
+        border: 2px solid #FB4C47;
+        padding: 16px 45px 16px 45px;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+    
+    .item_left {
+        position: relative;
+        height: 1x;
+        width: auto;
+    }
+
+    .item {
+        display: flex;
+        padding-top: 150px;
+        padding-right: 56px;
+    }
+
+    .item_right {
+        padding-top: 120px;
+    }
+
+    .item__button {
+        position: absolute;
+        left: 760px;
+        top: 1500px;
+        background: #F8DFDF;
+        border-radius: 65px; 
+        padding: 16px 45px 16px 45px;
+        text-decoration: none;
+        color: rgba(250, 86, 82, 1);
+        ;
+    }
+
+    .item1 {
+        display: flex;
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+        margin: 0px auto auto;
+        color: #4B4F51;
+        font-size: 18px;
+        width: 300px;
+    
+    }
+
+    .item1 h2 {
+        color: #FA5652;;
+    }
+
+    .item1 h1 {
+        color:#4d9b6bea;
+    }
+    .contagion__container {
+        display: flex;
+        max-width: min-content;
+        width: 1000px;
+        height: 600px;
+        margin: 0 auto;
+    }
+    
+    .contagion__card {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        height: 500px;
+        border: solid 2px #FFFFFF;
+        border-radius: 10px;
+        text-align: center;
+        background: #FFFFFF;
+    }
+    
+    .contagion__card:not(:first-child) {
+        margin-left: 30px;
+    }
+    
+    .contagion__card-img {
+        display: block;
+        margin: 30px auto 20px;
+        width: 160px;
+        height: 140px;
+    }
+    
+    .contagion__card-title {
+        font-size: 25px;
+        line-height: 50px;
+        color: #035755;
+        background: #FFFFFF;
+    }
+    
+    .contagion__card-list {
+        display: flex;
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+        margin: 20px auto auto;
+        color: #4B4F51;
+        font-size: 16px;
+        width: 300px;
+    }
+    
+    .contagion__list-item {
+        background: #FFFFFF;
+    }
+
+    .item3 {
+        display: flex;
+        text-align: center;
+        text-decoration: none;
+        list-style: none;
+        font-size: 16px;
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .imgsymptoms {
+        display: flex;
+        position: absolute;
+width: 1700px;
+height: 1000px;
+left: 91px;
+top: 2840px;
+
+    }
+
+   
+
+
